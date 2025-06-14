@@ -28,4 +28,4 @@
 
 ## 📽️ Demo
 
-https://github.com/user-attachments/assets/dd08cc3e-a1a2-4c82-a96d-60b0fcaed999
+https://github.com/user-attachments/assets/68e23e9a-bf78-4d1d-9c7c-ce8b295a0e82
